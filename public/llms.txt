@@ -1,0 +1,28 @@
+# SpellStall
+
+SpellStall is an AI prompt finding service for image and video creators.
+
+Users choose a model and a prompt category, browse short previews and sample images, then redeem a full prompt with a card code.
+
+Primary prompt tools:
+- GPT-image
+- Nano Banana
+- Seedance
+
+Core use cases:
+- AI image prompts
+- AI video prompts
+- Product and marketing visuals
+- Infographics
+- Portraits and character design
+- Posters, social media images, and cinematic prompts
+
+Contact:
+- wanghongxiang23@gmail.com
+
+Friendly links:
+- https://oumashu.top/
+- https://acgn-personality-database.top/
+- https://efortunetell.blog/
+- https://bedmate.ink/
+
